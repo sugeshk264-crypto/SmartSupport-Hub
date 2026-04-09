@@ -1,0 +1,5 @@
+{
+  "name": "Support KB Generator",
+  "description": "AI-powered tool to analyze customer support conversations and generate structured Knowledge Base articles.",
+  "requestFramePermissions": []
+}
